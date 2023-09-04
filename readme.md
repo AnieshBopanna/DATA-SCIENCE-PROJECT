@@ -1,4 +1,4 @@
-# Develpoing a Custom Bulit Sentiment Analysis tool for comment moderation by decoding youtube comments and comparing to a large languge model.This will help content creators on Youtube better understand thier audience's sentiment and also help them moderate the comments and mitigate potential crisis effectively and help maintain their reputation. 
+## Develpoing a Custom Bulit Sentiment Analysis tool for comment moderation by decoding youtube comments and comparing to a large languge model.This will help content creators on Youtube better understand thier audience's sentiment and also help them moderate the comments and mitigate potential crisis effectively and help maintain their reputation. 
 
 ## Overview
 This project aims to analyze the sentiment in comments from YouTube videos. And comparing this custom built cost effective model with a large language pre-trained transformer model and provide insights.
